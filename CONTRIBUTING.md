@@ -5,3 +5,4 @@ console.log("hello world");
 <p>Hello World</p>   
 print("werokamu")   
 dbms.print_line("Pl");   
+muoki: print('hello world')  
